@@ -101,14 +101,4 @@ azure_pipeline_client = AzureSQLClient(
     username=server_username,
     password=server_password
 )
-```
 
-## Support These Projects
-
-**Patreon:**
-Help support this project and future projects by donating to my [Patreon Page](https://www.patreon.com/sigmacoding)
-. I'm always looking to add more content for individuals like yourself, unfortuantely some of the
-APIs I would require me to pay monthly fees.
-
-**YouTube:**
-If you'd like to watch more of my content, feel free to visit my YouTube channel [Sigma Coding](https://www.youtube.com/c/SigmaCoding).
